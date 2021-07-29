@@ -182,7 +182,7 @@
         <dependency>
             <groupId>io.github.fslev</groupId>
             <artifactId>cucumber-reporting-extended</artifactId>
-            <version>5.4.7</version>
+            <version>5.4.8</version>
         </dependency>
     </dependencies>
 
