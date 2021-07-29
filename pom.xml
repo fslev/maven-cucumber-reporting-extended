@@ -16,6 +16,14 @@
         This is a prettified version of maven-cucumber-reporting
     </description>
 
+    <developers>
+        <developer>
+            <name>Florin Slevoaca</name>
+            <email>slevoaca.florin@gmail.com</email>
+            <timezone>EEST</timezone>
+        </developer>
+    </developers>
+
     <profiles>
         <profile>
             <id>nexus-upload</id>
@@ -205,4 +213,10 @@
         </repository>
     </distributionManagement>
 
+    <licenses>
+        <license>
+            <name>LGPL 2.1</name>
+            <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
+        </license>
+    </licenses>
 </project>
