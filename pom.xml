@@ -205,4 +205,10 @@
         </repository>
     </distributionManagement>
 
+    <licenses>
+        <license>
+            <name>LGPL 2.1</name>
+            <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
+        </license>
+    </licenses>
 </project>
