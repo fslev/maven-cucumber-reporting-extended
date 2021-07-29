@@ -16,6 +16,14 @@
         This is a prettified version of maven-cucumber-reporting
     </description>
 
+    <developers>
+        <developer>
+            <name>Florin Slevoaca</name>
+            <email>slevoaca.florin@gmail.com</email>
+            <timezone>EEST</timezone>
+        </developer>
+    </developers>
+
     <profiles>
         <profile>
             <id>nexus-upload</id>
