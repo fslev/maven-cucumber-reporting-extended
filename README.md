@@ -4,5 +4,7 @@ This a prettified version of maven-cucumber-reporting
 
 Maven mojo for the cucumber-reporting - put this into your `pom.xml` and run `mvn verify` so cucumber reports will be generated in `target/cucumber-html-reports`  
 
-Read more about the project and configuration here: [cucumber-reports](https://github.com/damianszczepanik/cucumber-reporting)
+Read more about the project and configuration here:
+- [cucumber-reports](https://github.com/damianszczepanik/cucumber-reporting)  
+- [maven-cucumber-reports](https://github.com/damianszczepanik/maven-cucumber-reporting)
 
