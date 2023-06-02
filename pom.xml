@@ -190,7 +190,7 @@
         <dependency>
             <groupId>io.github.fslev</groupId>
             <artifactId>cucumber-reporting-extended</artifactId>
-            <version>5.4.11</version>
+            <version>5.4.12</version>
         </dependency>
     </dependencies>
 
